@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="T01"/>
+        <attribute name="authors" value="ACER"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-09-04 09:10:07 PM"/>
+        <attribute name="created" value="QUNFUjtPTElWSUEtTklUUk87MjAyNC0wOS0wNDswODoyMjowMiBQTTsyNDU1"/>
+        <attribute name="edited" value="QUNFUjtPTElWSUEtTklUUk87MjAyNC0wOS0wNDswOToxMDowNyBQTTsxOzI1NjY="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nama" type="String" array="False" size=""/>
+            <input variable="nama"/>
+            <output expression="nama" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
